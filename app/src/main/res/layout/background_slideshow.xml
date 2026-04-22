@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Full-screen Background Slideshow -->
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/backgroundSlider"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <!-- Dark overlay for content readability -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#70000000"/>
+
+</FrameLayout>

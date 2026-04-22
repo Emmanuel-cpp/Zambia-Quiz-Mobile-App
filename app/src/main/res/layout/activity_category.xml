@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background Slideshow -->
+    <include layout="@layout/background_slideshow"/>
+
+    <!-- Original Content -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@android:color/transparent">
+
+        <!-- Space for status bar -->
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="45dp"/>
+
+
+        <!-- Difficulty Buttons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btnDifficultyEasy"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:text="Easy"
+                android:textSize="12sp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="#CCFFFFFF"
+                android:textColor="@color/text_primary"
+                style="@style/Widget.MaterialComponents.Button"/>
+
+            <Button
+                android:id="@+id/btnDifficultyMedium"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:text="Medium"
+                android:textSize="12sp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="#CCFFFFFF"
+                android:textColor="@color/text_primary"
+                style="@style/Widget.MaterialComponents.Button"/>
+
+            <Button
+                android:id="@+id/btnDifficultyHard"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:text="Hard"
+                android:textSize="12sp"
+                android:layout_marginEnd="4dp"
+                android:backgroundTint="#CCFFFFFF"
+                android:textColor="@color/text_primary"
+                style="@style/Widget.MaterialComponents.Button"/>
+
+            <Button
+                android:id="@+id/btnDifficultyAll"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:text="All"
+                android:textSize="12sp"
+                android:backgroundTint="#CCFFFFFF"
+                android:textColor="@color/text_primary"
+                style="@style/Widget.MaterialComponents.Button"/>
+
+        </LinearLayout>
+
+
+        <!-- Categories Grid -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvCategories"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:clipToPadding="false"/>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,7128 @@
+[
+  {
+    "id": 1,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which Zambian artist is famous for the song 'Sweet Banana'?",
+    "options": [
+      "Judy Yo",
+      "Petersen",
+      "Cleo Ice Queen",
+      "Mampi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 2,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the maximum speed of a cheetah?",
+    "options": [
+      "80 km/h",
+      "120 km/h",
+      "100 km/h",
+      "150 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 3,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What is the tenure of a Constitutional Court judge?",
+    "options": [
+      "5 years renewable",
+      "10 years non-renewable",
+      "Life appointment",
+      "Until retirement age"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 4,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the Copperbelt province established?",
+    "options": [
+      "1924",
+      "1940",
+      "1950",
+      "1931"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 5,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is Zambia's national animal?",
+    "options": [
+      "Leopard",
+      "Elephant",
+      "Lion",
+      "African Fish Eagle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 6,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which sector shows fastest growth?",
+    "options": [
+      "Services",
+      "Manufacturing",
+      "Agriculture",
+      "Tourism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 7,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who wrote 'The Chosen Bud'?",
+    "options": [
+      "Binwell Sinyangwe",
+      "Ellen Banda-Aaku",
+      "Dominic Mulaisho",
+      "Stephen Mpashi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 8,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which business sector is growing fastest?",
+    "options": [
+      "Tourism",
+      "Agriculture",
+      "Manufacturing",
+      "Fintech/mobile money"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 9,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian authored 'Zambia Shall Be Free'?",
+    "options": [
+      "Kenneth Kaunda",
+      "Simon Kapwepwe",
+      "Harry Nkumbula",
+      "Mainza Chona"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 10,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is the most famous Zambian female rapper?",
+    "options": [
+      "Mampi",
+      "Pompi",
+      "Judy Yo",
+      "Cleo Ice Queen"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 11,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Who is the Vice President of Zambia as of 2024?",
+    "options": [
+      "Given Lubinda",
+      "Mutale Nalumango",
+      "Inonge Wina",
+      "Guy Scott"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 12,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year did Zambia establish diplomatic relations with China?",
+    "options": [
+      "1968",
+      "1964",
+      "1975",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 13,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many species of mammals are found in Zambia?",
+    "options": [
+      "Over 250",
+      "Over 150",
+      "Over 200",
+      "Over 100"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 14,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the official language of government business?",
+    "options": [
+      "Bemba",
+      "Nyanja",
+      "English",
+      "All local languages"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 15,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What year was Samuel Matete's world championship medal?",
+    "options": [
+      "1991",
+      "1993",
+      "1989",
+      "1995"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 16,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is a group of lions called?",
+    "options": [
+      "A pack",
+      "A herd",
+      "A flock",
+      "A pride"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year was Lusaka declared the capital?",
+    "options": [
+      "1935",
+      "1940",
+      "1925",
+      "1930"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 18,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is Mukanda in Luvale culture?",
+    "options": [
+      "Farming ceremony",
+      "Initiation school for boys",
+      "Wedding ritual",
+      "Hunting ritual"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 19,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which international organization does Zambia belong to for trade?",
+    "options": [
+      "EAC",
+      "SACU",
+      "ECOWAS",
+      "COMESA"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 20,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "In what year did Kenneth Kaunda introduce one-party rule?",
+    "options": [
+      "1970",
+      "1971",
+      "1972",
+      "1973"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 21,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is the unemployment rate in Zambia approximately?",
+    "options": [
+      "25%",
+      "8%",
+      "13%",
+      "20%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 22,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the voting age in Zambia?",
+    "options": [
+      "20 years",
+      "18 years",
+      "16 years",
+      "21 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 23,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What do most Zambians depend on for income?",
+    "options": [
+      "Trade",
+      "Farming",
+      "Mining",
+      "Tourism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 24,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Who was the first Speaker of the National Assembly?",
+    "options": [
+      "Robinson Nabulyato",
+      "Wesley Nyirenda",
+      "Anderson Mazoka",
+      "Amon Zulu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 25,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many fish species are in Lake Tanganyika?",
+    "options": [
+      "Over 250",
+      "500",
+      "100",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the source of the Zambezi River?",
+    "options": [
+      "Lake Mweru",
+      "Zambian highlands near Kalene Hill",
+      "Lake Bangweulu",
+      "Lake Tanganyika"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which district is the largest in Zambia?",
+    "options": [
+      "Lusaka",
+      "Chama",
+      "Shang'ombo",
+      "Kabompo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 28,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What is the Attorney General's role?",
+    "options": [
+      "Chief legal advisor to government",
+      "Head of courts",
+      "Police chief",
+      "Prosecutor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which river flows through Lusaka?",
+    "options": [
+      "Chunga River",
+      "Zambezi River",
+      "Kafue River",
+      "Luangwa River"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 30,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What year was the Office of Director of Public Prosecutions established?",
+    "options": [
+      "2016",
+      "1964",
+      "1973",
+      "1991"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 31,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who wrote 'The Other Side of the Sun'?",
+    "options": [
+      "Dominic Mulaisho",
+      "Namwali Serpell",
+      "Binwell Sinyangwe",
+      "Ellen Banda-Aaku"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 32,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How many members does the National Assembly have?",
+    "options": [
+      "167",
+      "180",
+      "150",
+      "200"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 33,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the gestation period of an African elephant?",
+    "options": [
+      "22 months",
+      "24 months",
+      "20 months",
+      "18 months"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 34,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What position did Kalusha Bwalya play?",
+    "options": [
+      "Goalkeeper",
+      "Attacking midfielder",
+      "Striker",
+      "Defender"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 35,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which city is Zambia's financial capital?",
+    "options": [
+      "Livingstone",
+      "Lusaka",
+      "Kitwe",
+      "Ndola"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 36,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many Game Management Areas does Zambia have?",
+    "options": [
+      "40",
+      "25",
+      "36",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 37,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first Chief Justice?",
+    "options": [
+      "Mathew Ngulube",
+      "Annel Silungwe",
+      "James Skinner",
+      "Kenneth Kaunda"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 38,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian is a famous filmmaker?",
+    "options": [
+      "Rungano Nyoni",
+      "Mwenya Kabwe",
+      "Samukeliso Kachalila",
+      "Esther Mukuka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "In which continent is Zambia located?",
+    "options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Asia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which province is known as the Copperbelt?",
+    "options": [
+      "Luapula Province",
+      "Northern Province",
+      "Central Province",
+      "Copperbelt Province"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 41,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's first Finance Minister?",
+    "options": [
+      "Nalumino Mundia",
+      "Mainza Chona",
+      "John Mwanakatwe",
+      "Arthur Wina"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 42,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which reptile is unique to Zambezi?",
+    "options": [
+      "African rock python",
+      "Gaboon viper",
+      "Nile crocodile",
+      "Black mamba"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 43,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What crop is Zambia's staple food?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Cassava",
+      "Maize"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the highest point in Zambia?",
+    "options": [
+      "Muchinga Mountains",
+      "Nyika Plateau",
+      "Makulu Mountains",
+      "Mafinga Hills"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 45,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What color is the presidential standard?",
+    "options": [
+      "Black and red",
+      "Blue and gold",
+      "Red and white",
+      "Green and orange"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 46,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which country provided loans to Zambia for TAZARA?",
+    "options": [
+      "Soviet Union",
+      "UK",
+      "USA",
+      "China"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 47,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the dry season in Zambia called?",
+    "options": [
+      "Cold season",
+      "Winter",
+      "Harvest season",
+      "Sunny season"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 48,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When did the Zambian African National Congress (ZANC) form?",
+    "options": [
+      "1962",
+      "1960",
+      "1958",
+      "1956"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 49,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which city is known as the Garden City?",
+    "options": [
+      "Kitwe",
+      "Livingstone",
+      "Lusaka",
+      "Ndola"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 50,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Who is the all-time top scorer for Chipolopolo?",
+    "options": [
+      "Kalusha Bwalya",
+      "Collins Mbesuma",
+      "Christopher Katongo",
+      "Godfrey Chitalu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 51,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is the fastest land animal found in Zambia?",
+    "options": [
+      "Leopard",
+      "Wild dog",
+      "Cheetah",
+      "Lion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 52,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What is Zambia's national sport?",
+    "options": [
+      "Cricket",
+      "Athletics",
+      "Rugby",
+      "Football"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 53,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "In which direction from Lusaka is the Copperbelt?",
+    "options": [
+      "East",
+      "North",
+      "West",
+      "South"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 54,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which wetland system is the largest in Zambia?",
+    "options": [
+      "Barotse Floodplain",
+      "Kafue Flats",
+      "Bangweulu Swamps",
+      "Lukanga Swamps"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 55,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which bird is endemic to Zambia?",
+    "options": [
+      "Crowned Crane",
+      "Fish Eagle",
+      "Chaplin's Barbet",
+      "Black Stork"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 56,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is Zambia's legislature called?",
+    "options": [
+      "Senate",
+      "Parliament",
+      "Congress",
+      "National Assembly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 57,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambia's workforce is in agriculture?",
+    "options": [
+      "50%",
+      "40%",
+      "60%",
+      "70%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 58,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Zambia won AFCON in which African country?",
+    "options": [
+      "Gabon",
+      "Ghana",
+      "Nigeria",
+      "Egypt"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 59,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Which country did Zambia gain independence from?",
+    "options": [
+      "Germany",
+      "Britain",
+      "France",
+      "Portugal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the second longest river in Zambia?",
+    "options": [
+      "Luapula River",
+      "Luangwa River",
+      "Chambeshi River",
+      "Kafue River"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 61,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the approximate population of Zambia?",
+    "options": [
+      "19 million",
+      "30 million",
+      "15 million",
+      "25 million"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 62,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What type of climate does most of Zambia have?",
+    "options": [
+      "Desert",
+      "Mediterranean",
+      "Temperate",
+      "Tropical"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 63,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which rapper is known as 'Chef 187'?",
+    "options": [
+      "Kondwani Kaira",
+      "Sebastian Magacha",
+      "Scott Kasabi",
+      "Elton Mulenga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 64,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which Zambian won the 2012 African Footballer of the Year?",
+    "options": [
+      "Emmanuel Mayuka",
+      "Christopher Katongo",
+      "Kennedy Mweene",
+      "Rainford Kalaba"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 65,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which ocean is closest to Zambia?",
+    "options": [
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 66,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the nickname of Nkana FC?",
+    "options": [
+      "Chipolopolo",
+      "The Mighty",
+      "Red Devils",
+      "Kalampa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 67,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Zambian played for Anderlecht?",
+    "options": [
+      "Emmanuel Mayuka",
+      "Collins Mbesuma",
+      "Christopher Katongo",
+      "James Chamanga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 68,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is the heaviest bird in Zambia?",
+    "options": [
+      "Eagle",
+      "Ostrich",
+      "Stork",
+      "Vulture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 69,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many bird species are recorded in Zambia?",
+    "options": [
+      "Over 500",
+      "Over 900",
+      "Over 600",
+      "Over 750"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 70,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is Zambia's main export commodity?",
+    "options": [
+      "Oil",
+      "Diamonds",
+      "Copper",
+      "Gold"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 71,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's ambassador to United States in 1970s?",
+    "options": [
+      "Siteke Mwale",
+      "Vernon Mwaanga",
+      "John Mwanakatwe",
+      "Peter Matoka"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 72,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "In which year did the Gabon plane crash occur?",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 73,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "How many colors are on Zambia's flag?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 74,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What year did Zambia first participate in the Olympics?",
+    "options": [
+      "1972",
+      "1968",
+      "1964",
+      "1960"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 75,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the ZNBC founded?",
+    "options": [
+      "1966",
+      "1968",
+      "1970",
+      "1964"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 76,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which animal is the largest land mammal after elephant?",
+    "options": [
+      "Hippopotamus",
+      "Buffalo",
+      "Giraffe",
+      "Rhinoceros"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 77,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was the Acting President between Mwanawasa's death and 2008 elections?",
+    "options": [
+      "Michael Sata",
+      "Rupiah Banda",
+      "Ngosa Simbyakula",
+      "Enock Kavindele"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 78,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which company is the largest copper producer?",
+    "options": [
+      "Konkola Copper Mines",
+      "First Quantum Minerals",
+      "Mopani Copper Mines",
+      "Lumwana Mining"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 79,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was the first female Supreme Court judge in Zambia?",
+    "options": [
+      "Florence Lenghan",
+      "Lombe Chibesakunda",
+      "Annel Silungwe",
+      "Mumba Malila"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 80,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which president founded Zambia's stock exchange?",
+    "options": [
+      "Levy Mwanawasa",
+      "Rupiah Banda",
+      "Kenneth Kaunda",
+      "Frederick Chiluba"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 81,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the name of Zambia's oldest football club?",
+    "options": [
+      "Green Buffaloes",
+      "Nkana FC",
+      "Power Dynamos",
+      "Zanaco"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 82,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the title of Zambia's national anthem?",
+    "options": [
+      "Arise Zambia",
+      "Lumbanyeni Zambia",
+      "Zambia Our Motherland",
+      "Stand and Sing of Zambia, Proud and Free"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 83,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which Zambian club has won the most league titles?",
+    "options": [
+      "Nkana FC",
+      "Green Buffaloes",
+      "Power Dynamos",
+      "Zanaco FC"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 84,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which large predator is rare in Zambia?",
+    "options": [
+      "Cheetah",
+      "Leopard",
+      "Lion",
+      "Wild dog"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 85,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Who is considered the greatest Zambian footballer of all time?",
+    "options": [
+      "Godfrey Chitalu",
+      "Kenneth Malitoli",
+      "Christopher Katongo",
+      "Kalusha Bwalya"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 86,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the traditional ceremony of the Lozi people called?",
+    "options": [
+      "Likumbi Lya Mize",
+      "Mutomboko",
+      "Kuomboka",
+      "N'cwala"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 87,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which lake is entirely within Zambia?",
+    "options": [
+      "Lake Bangweulu",
+      "Lake Malawi",
+      "Lake Tanganyika",
+      "Lake Mweru"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 88,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What does the red color on Zambia's flag represent?",
+    "options": [
+      "Blood",
+      "Unity",
+      "Struggle for freedom",
+      "Courage"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 89,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is Zambia's land area ranking in Africa?",
+    "options": [
+      "17th largest",
+      "10th largest",
+      "20th largest",
+      "15th largest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 90,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "Who appoints judges in Zambia?",
+    "options": [
+      "Judicial Service Commission",
+      "The President",
+      "The people",
+      "Parliament"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 91,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian artist is known for social commentary paintings?",
+    "options": [
+      "Agnes Yombwe",
+      "Stephen Kappata",
+      "Flinto Chandia",
+      "Henry Tayali"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 92,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which big cat hunts alone?",
+    "options": [
+      "Leopard",
+      "Cheetah (often solo)",
+      "All of the above",
+      "Lion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 93,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian founded the Kitwe Symphony Orchestra?",
+    "options": [
+      "Edwin Manda",
+      "Alick Nkhata",
+      "Teddy Chilambe",
+      "Paul Ngozi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 94,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What was the Chiluba vs Kaunda election year?",
+    "options": [
+      "1996",
+      "1991",
+      "2001",
+      "1989"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 95,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Who is the head of state in Zambia?",
+    "options": [
+      "Speaker",
+      "Vice President",
+      "The President",
+      "Chief Justice"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 96,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who was known as 'KK's right-hand man'?",
+    "options": [
+      "Nalumino Mundia",
+      "Simon Kapwepwe",
+      "Mainza Chona",
+      "Grey Zulu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 97,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's ranking in global copper production?",
+    "options": [
+      "5th",
+      "7th",
+      "10th",
+      "3rd"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 98,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many players are on a football team on field?",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 99,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many reptile species are in Zambia?",
+    "options": [
+      "200",
+      "Over 140",
+      "50",
+      "80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 100,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian comedian is internationally known?",
+    "options": [
+      "Difikoti",
+      "Bob Nkosha",
+      "Maso",
+      "Sunday Chanda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 101,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Zambian footballer was nicknamed 'The Bomber'?",
+    "options": [
+      "Christopher Katongo",
+      "Collins Mbesuma",
+      "Felix Katongo",
+      "James Chamanga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 102,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Where is Zambia's seat of government located?",
+    "options": [
+      "Lusaka",
+      "Livingstone",
+      "Kitwe",
+      "Ndola"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 103,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "How many protected forest areas are in Zambia?",
+    "options": [
+      "100",
+      "Over 400",
+      "200",
+      "50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 104,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which tribe is known for ironworking tradition?",
+    "options": [
+      "Lozi",
+      "Bemba",
+      "Kaonde",
+      "Tonga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 105,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which river forms Zambia's border with Zimbabwe?",
+    "options": [
+      "Luangwa River",
+      "Zambezi River",
+      "Chambeshi River",
+      "Kafue River"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 106,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who succeeded Kenneth Kaunda as president in 1991?",
+    "options": [
+      "Rupiah Banda",
+      "Frederick Chiluba",
+      "Levy Mwanawasa",
+      "Michael Sata"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 107,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the traditional Nyau dance associated with?",
+    "options": [
+      "Lozi royalty",
+      "Chewa secret society",
+      "Bemba harvest",
+      "Tonga wedding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 108,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What shape is a football?",
+    "options": [
+      "Rectangle",
+      "Cube",
+      "Oval",
+      "Round sphere"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 109,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which is the oldest national park in Zambia?",
+    "options": [
+      "South Luangwa",
+      "Lochinvar",
+      "Mosi-oa-Tunya",
+      "Kafue National Park"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 110,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What year did Zambia default on Eurobonds?",
+    "options": [
+      "2022",
+      "2018",
+      "2015",
+      "2020"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 111,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In which year was the Chipolopolo first formed?",
+    "options": [
+      "1964",
+      "1929",
+      "1970",
+      "1945"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 112,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was the Zambian currency before the Kwacha?",
+    "options": [
+      "Rhodesian Dollar",
+      "Zambian Pound",
+      "Shilling",
+      "Zambian Dollar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 113,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year did Zambia change from a one-party state?",
+    "options": [
+      "1992",
+      "1990",
+      "1991",
+      "1989"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 114,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What unique phenomenon occurs at Kasanka National Park?",
+    "options": [
+      "Flamingo gathering",
+      "Elephant congregation",
+      "Wildebeest migration",
+      "Bat migration"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 115,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What is the main source of electricity in Zambia?",
+    "options": [
+      "Hydroelectric power",
+      "Solar",
+      "Coal",
+      "Natural gas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 116,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What tree is commonly found in Zambian woodlands?",
+    "options": [
+      "Leadwood",
+      "Baobab",
+      "Miombo",
+      "Acacia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 117,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the traditional food of the Tonga people?",
+    "options": [
+      "Kapenta",
+      "Munkoyo",
+      "Delele",
+      "Nshima"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 118,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is 'Chikanda' also known as?",
+    "options": [
+      "African polony",
+      "Rice dish",
+      "Maize porridge",
+      "Traditional bread"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 119,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's total GDP approximately?",
+    "options": [
+      "$50 billion",
+      "$27 billion",
+      "$10 billion",
+      "$15 billion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 120,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When did Zambia break diplomatic ties with apartheid South Africa?",
+    "options": [
+      "1991",
+      "1970",
+      "1964",
+      "1980"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 121,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "How many ethnic groups are recognized in Zambia?",
+    "options": [
+      "50",
+      "80",
+      "60",
+      "73"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 122,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How is the Cabinet formed in Zambia?",
+    "options": [
+      "Chosen by party",
+      "Parliament selects",
+      "Elected by people",
+      "President appoints ministers"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 123,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What year did Zambia adopt English as official language?",
+    "options": [
+      "1973",
+      "2016",
+      "1964",
+      "1991"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 124,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What date is Zambia's Independence Day celebrated?",
+    "options": [
+      "December 24",
+      "October 24",
+      "October 14",
+      "November 24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 125,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "How many ngwee make a kwacha?",
+    "options": [
+      "100",
+      "50",
+      "200",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 126,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which bird is Zambia's national bird?",
+    "options": [
+      "Lilac-breasted Roller",
+      "Crowned Crane",
+      "Secretary Bird",
+      "African Fish Eagle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 127,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which province is the least populated?",
+    "options": [
+      "Luapula Province",
+      "Northwestern Province",
+      "Muchinga Province",
+      "Western Province"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 128,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the name of Zambia's currency region?",
+    "options": [
+      "Arab Maghreb Union",
+      "East African Community",
+      "ECOWAS",
+      "Southern African Development Community"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 129,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which mountain range runs through Eastern Zambia?",
+    "options": [
+      "Mafinga Hills",
+      "Nyika Plateau",
+      "Makulu Mountains",
+      "Muchinga Mountains"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 130,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What does the nickname 'Chipolopolo' mean?",
+    "options": [
+      "Green Eagles",
+      "Victory",
+      "Copper Bullets",
+      "Mighty Lions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 131,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was the Copperbelt University founded?",
+    "options": [
+      "1987",
+      "1990",
+      "1975",
+      "1964"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 132,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What European league did Kalusha play in?",
+    "options": [
+      "Spanish La Liga",
+      "Dutch Eredivisie",
+      "German Bundesliga",
+      "English Premier League"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 133,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's coach during the 1993 plane crash?",
+    "options": [
+      "Freddie Mwila",
+      "Patrick Phiri",
+      "Godfrey Chitalu",
+      "Alex Chola"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 134,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which tribe resides primarily in Western Province?",
+    "options": [
+      "Tonga",
+      "Bemba",
+      "Ngoni",
+      "Lozi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 135,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is Zambia's largest lake?",
+    "options": [
+      "Lake Mweru",
+      "Lake Kariba",
+      "Lake Tanganyika",
+      "Lake Bangweulu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 136,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the Bank of Zambia established?",
+    "options": [
+      "1965",
+      "1970",
+      "1968",
+      "1964"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 137,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which fish is commercially important?",
+    "options": [
+      "Bream",
+      "Catfish",
+      "Kapenta",
+      "Tilapia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 138,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was Operation Noah conducted?",
+    "options": [
+      "1965-1970",
+      "1958-1964",
+      "1945-1950",
+      "1950-1955"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 139,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What does the green color on Zambia's flag represent?",
+    "options": [
+      "Hope",
+      "Natural resources and vegetation",
+      "Unity",
+      "Agriculture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 140,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What vegetable is commonly dried and eaten?",
+    "options": [
+      "Spinach",
+      "Cabbage",
+      "Pumpkin leaves (chibwabwa)",
+      "Carrots"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 141,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Who is the current president of Zambia as of 2024?",
+    "options": [
+      "Edgar Lungu",
+      "Hakainde Hichilema",
+      "Michael Sata",
+      "Rupiah Banda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 142,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who was known as 'Africa's Gandhi'?",
+    "options": [
+      "Julius Nyerere",
+      "Kenneth Kaunda",
+      "Nelson Mandela",
+      "Kwame Nkrumah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 143,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which waterfall is known as 'The Smoke that Thunders'?",
+    "options": [
+      "Kalambo Falls",
+      "Victoria Falls",
+      "Lumangwe Falls",
+      "Ngonye Falls"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 144,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who founded the University Teaching Hospital in Lusaka?",
+    "options": [
+      "Frederick Chiluba",
+      "Christian missionaries",
+      "British colonial government",
+      "Kenneth Kaunda"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 145,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What year did Zambia abolish the death penalty?",
+    "options": [
+      "2020",
+      "2022",
+      "2018",
+      "2015"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 146,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which tribe's paramount chief is called Chitimukulu?",
+    "options": [
+      "Tonga",
+      "Ngoni",
+      "Bemba",
+      "Lozi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 147,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What type of vegetation dominates Zambia?",
+    "options": [
+      "Savanna grassland",
+      "Desert",
+      "Miombo woodland",
+      "Rainforest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 148,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How many times can a Zambian president be elected?",
+    "options": [
+      "Two terms",
+      "One term",
+      "Three terms",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 149,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "When was the Bill of Rights established in Zambia's constitution?",
+    "options": [
+      "1964",
+      "2016",
+      "1972",
+      "1991"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 150,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What does the Shimunenga ceremony celebrate?",
+    "options": [
+      "Ngoni warriors",
+      "Bemba royalty",
+      "Ila and Tonga harvest",
+      "Lozi migration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 151,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which river flows through South Luangwa National Park?",
+    "options": [
+      "Luangwa River",
+      "Kafue River",
+      "Chambeshi River",
+      "Zambezi River"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 152,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What is the Zambia Revenue Authority responsible for?",
+    "options": [
+      "Banking supervision",
+      "Tax collection",
+      "Mining regulation",
+      "Trade policy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 153,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who was known as 'KK'?",
+    "options": [
+      "Kennedy Mweene",
+      "Kalusha Bwalya",
+      "Keith Mwila",
+      "Kenneth Kaunda"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 154,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which tribe celebrates the N'cwala ceremony?",
+    "options": [
+      "Lozi",
+      "Bemba",
+      "Tonga",
+      "Ngoni"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 155,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What was the name of the federation that included Northern Rhodesia?",
+    "options": [
+      "Central African Federation",
+      "Southern Africa Union",
+      "British Central Africa",
+      "Federation of Rhodesia and Nyasaland"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 156,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Which colonial power controlled Northern Rhodesia?",
+    "options": [
+      "Britain",
+      "Belgium",
+      "Portugal",
+      "Germany"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 157,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambians live below the poverty line?",
+    "options": [
+      "60%",
+      "70%",
+      "40%",
+      "50%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 158,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which Zambian language uses tones?",
+    "options": [
+      "English",
+      "Bemba",
+      "Portuguese",
+      "French"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 159,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many fruit bats migrate to Kasanka annually?",
+    "options": [
+      "10 million",
+      "1 million",
+      "5 million",
+      "20 million"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 160,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is a traditional Zambian wedding celebration called?",
+    "options": [
+      "Lobola",
+      "Imbuga",
+      "Chilanga Mulilo",
+      "Umuganda"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 161,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's inflation rate approximately?",
+    "options": [
+      "3-4%",
+      "9-10%",
+      "5-6%",
+      "15-20%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 162,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the Zambian handshake style called?",
+    "options": [
+      "Elder's greeting",
+      "Royal handshake",
+      "Three-part handshake",
+      "Traditional grip"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 163,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is the main diet of a leopard?",
+    "options": [
+      "Insects",
+      "Fish",
+      "Plants",
+      "Meat (predator)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 164,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What year was the Kariba Dam completed?",
+    "options": [
+      "1955",
+      "1950",
+      "1964",
+      "1959"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 165,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Where is the Shoebill stork primarily found?",
+    "options": [
+      "Lukanga Swamps",
+      "Barotse Floodplain",
+      "Bangweulu Swamps",
+      "Kafue Flats"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 166,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is the currency of Zambia?",
+    "options": [
+      "Dollar",
+      "Kwacha",
+      "Rand",
+      "Shilling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 167,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which month is Kuomboka typically held?",
+    "options": [
+      "March or April",
+      "June",
+      "January",
+      "December"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 168,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which province is known for agriculture?",
+    "options": [
+      "Copperbelt",
+      "Northern Province",
+      "Eastern Province",
+      "Lusaka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 169,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which escarpment divides Zambia?",
+    "options": [
+      "Great Rift Valley",
+      "Muchinga Escarpment",
+      "Kafue Escarpment",
+      "Zambezi Escarpment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 170,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which year did Zambia reach AFCON semifinals?",
+    "options": [
+      "1990",
+      "1974",
+      "2002",
+      "1996"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 171,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is the largest Zambian airline?",
+    "options": [
+      "Mahogany Air",
+      "Zambia Airways",
+      "Air Zambia",
+      "Proflight Zambia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 172,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Who named Victoria Falls?",
+    "options": [
+      "Cecil Rhodes",
+      "Henry Stanley",
+      "David Livingstone",
+      "Richard Burton"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 173,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which Zambian was African Footballer of the Year 2012?",
+    "options": [
+      "Christopher Katongo",
+      "Emmanuel Mayuka",
+      "Rainford Kalaba",
+      "Kennedy Mweene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 174,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital city of Zambia?",
+    "options": [
+      "Ndola",
+      "Livingstone",
+      "Kitwe",
+      "Lusaka"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 175,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What color is Zambia's national flag predominantly?",
+    "options": [
+      "Orange",
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 176,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the second-largest city in Zambia?",
+    "options": [
+      "Ndola",
+      "Kitwe",
+      "Livingstone",
+      "Kabwe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 177,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "In what year did Zambia win the Africa Cup of Nations?",
+    "options": [
+      "2010",
+      "2008",
+      "2012",
+      "2015"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 178,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was the University Teaching Hospital established?",
+    "options": [
+      "1966",
+      "1964",
+      "1970",
+      "1975"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 179,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which ceremony involves crossing the Zambezi floodplains?",
+    "options": [
+      "Shimunenga",
+      "Mutomboko",
+      "Kuomboka",
+      "N'cwala"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 180,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which ceremony celebrates the harvest among the Luvale people?",
+    "options": [
+      "Kuomboka",
+      "Likumbi Lya Mize",
+      "Mutomboko",
+      "N'cwala"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 181,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What is the name of Zambia's premier football league?",
+    "options": [
+      "FAZ League",
+      "MTN Super League",
+      "Premier League",
+      "National League"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 182,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was Zambian Humanism based on?",
+    "options": [
+      "Western democracy",
+      "Capitalism",
+      "African values and communalism",
+      "Marxism"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 183,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is the Zambian coin called?",
+    "options": [
+      "Tambala",
+      "Ngwee",
+      "Cent",
+      "Penny"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 184,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which animal is NOT part of Africa's Big Five?",
+    "options": [
+      "Elephant",
+      "Buffalo",
+      "Cheetah",
+      "Lion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 185,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the coldest month in Zambia?",
+    "options": [
+      "January",
+      "August",
+      "July",
+      "June"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 186,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which Zambian club won African Champions League?",
+    "options": [
+      "Zesco United",
+      "Nkana FC",
+      "Power Dynamos",
+      "None yet"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 187,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the Zambian Judiciary?",
+    "options": [
+      "Executive branch",
+      "Parliament",
+      "System of courts",
+      "Police force"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 188,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "In which year did Zambia adopt a multi-party democracy?",
+    "options": [
+      "1991",
+      "1990",
+      "1989",
+      "1992"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 189,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Is Zambia a landlocked country?",
+    "options": [
+      "Partially",
+      "Yes",
+      "No",
+      "Has ocean access"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 190,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "When was Zambia's current electoral system established?",
+    "options": [
+      "2006",
+      "1996",
+      "2016",
+      "1991"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 191,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Leopard",
+      "Buffalo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 192,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which tribe introduced cassava to Zambia?",
+    "options": [
+      "Bemba",
+      "Luvale",
+      "Lozi",
+      "Tonga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 193,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which town is the commercial capital of Zambia?",
+    "options": [
+      "Lusaka",
+      "Kitwe",
+      "Ndola",
+      "Livingstone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 194,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "Who was the president before Hichilema?",
+    "options": [
+      "Michael Sata",
+      "Levy Mwanawasa",
+      "Edgar Lungu",
+      "Rupiah Banda"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 195,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What type of government does Zambia have?",
+    "options": [
+      "Constitutional monarchy",
+      "Presidential republic",
+      "Parliamentary democracy",
+      "Federal republic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 196,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was Zambia's first president?",
+    "options": [
+      "Michael Sata",
+      "Levy Mwanawasa",
+      "Frederick Chiluba",
+      "Kenneth Kaunda"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 197,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was Zambia's coat of arms adopted?",
+    "options": [
+      "1963",
+      "1964",
+      "1966",
+      "1965"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 198,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What is Zambia's second-largest export after copper?",
+    "options": [
+      "Emeralds",
+      "Tobacco",
+      "Cobalt",
+      "Cotton"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 199,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which Zambian artist sang 'Poshoto'?",
+    "options": [
+      "Mampi",
+      "Chef 187",
+      "Judy Yo",
+      "Cleo Ice Queen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 200,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is the tallest animal in Zambia?",
+    "options": [
+      "Eland",
+      "Giraffe",
+      "Elephant",
+      "Ostrich"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 201,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "How often are presidential elections held?",
+    "options": [
+      "Every 4 years",
+      "Every 7 years",
+      "Every 5 years",
+      "Every 3 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 202,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which month is Ncwala usually held?",
+    "options": [
+      "April",
+      "January",
+      "March",
+      "February"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 203,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year was the Federation of Rhodesia and Nyasaland dissolved?",
+    "options": [
+      "1963",
+      "1961",
+      "1962",
+      "1964"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 204,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What position did Christopher Katongo play?",
+    "options": [
+      "Midfielder",
+      "Goalkeeper",
+      "Forward",
+      "Defender"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 205,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the name of the boat used in Kuomboka?",
+    "options": [
+      "Nalikwanda",
+      "Mukwela",
+      "Simulumbu",
+      "Kakuyu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 206,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's first Vice President?",
+    "options": [
+      "Mainza Chona",
+      "Reuben Kamanga",
+      "Gray Zulu",
+      "Simon Kapwepwe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 207,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the Copperbelt's largest city?",
+    "options": [
+      "Kitwe",
+      "Ndola",
+      "Chingola",
+      "Mufulira"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 208,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is the Zambian Kwacha abbreviated as?",
+    "options": [
+      "ZAK",
+      "ZMK",
+      "ZMB",
+      "ZMW"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 209,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "Who founded the British South Africa Company?",
+    "options": [
+      "Alfred Sharpe",
+      "Frederick Lugard",
+      "Cecil Rhodes",
+      "Harry Johnston"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 210,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What sport is Zambia's second most popular?",
+    "options": [
+      "Basketball",
+      "Boxing",
+      "Netball",
+      "Rugby"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 211,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What is the role of the Speaker of the National Assembly?",
+    "options": [
+      "Presiding over parliamentary sessions",
+      "Commanding the army",
+      "Appointing ministers",
+      "Approving budgets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 212,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was the name of the first newspaper in Zambia?",
+    "options": [
+      "Northern News",
+      "The Post",
+      "Times of Zambia",
+      "Zambia Daily Mail"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 213,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "How many goals did Godfrey Chitalu score in 1972?",
+    "options": [
+      "89",
+      "95",
+      "107",
+      "101"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 214,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first university vice-chancellor?",
+    "options": [
+      "Professor Stephen Simukanga",
+      "Professor Luke Mumba",
+      "Professor Lameck Goma",
+      "Professor Daniel Ndhlovu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 215,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who sang the hit 'Finally'?",
+    "options": [
+      "Chef 187",
+      "Slapdee",
+      "Yo Maps",
+      "Macky 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 216,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Who heads traditional Lozi ceremonies?",
+    "options": [
+      "The Litunga",
+      "The Ngambela",
+      "The Chief",
+      "The Induna"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 217,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was Northern Rhodesia made a British protectorate?",
+    "options": [
+      "1924",
+      "1930",
+      "1920",
+      "1918"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 218,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Who captained Zambia to AFCON victory in 2012?",
+    "options": [
+      "Stoppila Sunzu",
+      "Christopher Katongo",
+      "Kennedy Mweene",
+      "Rainford Kalaba"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 219,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which is the main watershed in Zambia?",
+    "options": [
+      "Nile Basin",
+      "East African Rift",
+      "Kalahari Basin",
+      "Congo-Zambezi divide"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 220,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is known as the 'Great Elephant' in music?",
+    "options": [
+      "JK",
+      "PK Chishala",
+      "Yo Maps",
+      "Paul Ngozi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 221,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What is Zambia's most popular sport?",
+    "options": [
+      "Basketball",
+      "Rugby",
+      "Cricket",
+      "Football (Soccer)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 222,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the first Chipolopolo team formed?",
+    "options": [
+      "1940",
+      "1929",
+      "1950",
+      "1964"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 223,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What musical instrument is traditional to Zambian music?",
+    "options": [
+      "Balafon",
+      "Kalimba",
+      "Djembe",
+      "Kora"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 224,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Zambian footballer played for Portsmouth FC?",
+    "options": [
+      "James Chamanga",
+      "Collins Mbesuma",
+      "Emmanuel Mayuka",
+      "Christopher Katongo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 225,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the name of Lusaka's main international airport?",
+    "options": [
+      "Levy Mwanawasa Airport",
+      "Simon Mwansa Airport",
+      "Kenneth Kaunda International Airport",
+      "Harry Nkumbula Airport"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 226,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's external debt approximately?",
+    "options": [
+      "Over $10 billion",
+      "Over $5 billion",
+      "Over $17 billion",
+      "Over $25 billion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 227,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Who scored the winning penalty in 2012 AFCON final?",
+    "options": [
+      "Rainford Kalaba",
+      "Stoppila Sunzu",
+      "Christopher Katongo",
+      "Kennedy Mweene"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 228,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is the main crop grown in Eastern Province?",
+    "options": [
+      "Coffee",
+      "Cotton",
+      "Tea",
+      "Tobacco"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 229,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the height of Victoria Falls?",
+    "options": [
+      "108 meters",
+      "95 meters",
+      "100 meters",
+      "120 meters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 230,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which ceremony is held by the Chewa people?",
+    "options": [
+      "Mutomboko",
+      "Kuomboka",
+      "Kulamba",
+      "N'cwala"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 231,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What year did Zambia privatize its copper mines?",
+    "options": [
+      "2000s",
+      "1980s",
+      "1990s",
+      "1970s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 232,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first Olympic medalist?",
+    "options": [
+      "Lottie Mwale",
+      "Patrick Chinyemba",
+      "Keith Mwila",
+      "Samuel Matete"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 233,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which company runs the largest cement factory?",
+    "options": [
+      "Zambezi Portland",
+      "Lafarge Zambia",
+      "All of them",
+      "Dangote Cement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 234,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which border crossing is the busiest with Zimbabwe?",
+    "options": [
+      "Livingstone",
+      "Victoria Falls",
+      "Kariba",
+      "Chirundu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 235,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian won 2023 Booker Prize nomination?",
+    "options": [
+      "Ellen Banda-Aaku",
+      "Namwali Serpell",
+      "Binwell Sinyangwe",
+      "Stephen Mpashi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 236,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which Zambian president had a beard that became iconic?",
+    "options": [
+      "Michael Sata",
+      "Kenneth Kaunda",
+      "Edgar Lungu",
+      "Frederick Chiluba"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 237,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "How many national parks does Zambia have?",
+    "options": [
+      "20",
+      "15",
+      "25",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 238,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the traditional Bemba initiation ceremony called?",
+    "options": [
+      "Chisungu",
+      "Vimbuza",
+      "Chinamwali",
+      "Mukanda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 239,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What political party did Kenneth Kaunda lead?",
+    "options": [
+      "UNIP",
+      "MMD",
+      "PF",
+      "UPND"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 240,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian was a founding member of ANC in South Africa?",
+    "options": [
+      "Kenneth Kaunda",
+      "Harry Mwaanga Nkumbula",
+      "Mainza Chona",
+      "Simon Kapwepwe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 241,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is the rate of economic growth targeted in Vision 2030?",
+    "options": [
+      "3-4%",
+      "Above 6%",
+      "2-3%",
+      "10%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 242,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year did the Kwacha replace the Zambian Pound?",
+    "options": [
+      "1964",
+      "1970",
+      "1968",
+      "1972"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 243,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is Zambia's largest football stadium?",
+    "options": [
+      "Independence Stadium",
+      "Heroes National Stadium",
+      "Levy Mwanawasa Stadium",
+      "Nkoloma Stadium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 244,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is Zambia's main cash crop?",
+    "options": [
+      "Coffee",
+      "Tobacco",
+      "Tea",
+      "Cotton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 245,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which dam is Zambia's largest hydroelectric facility?",
+    "options": [
+      "Kariba Dam",
+      "Victoria Falls",
+      "Kafue Gorge Dam",
+      "Itezhi-Tezhi Dam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 246,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which region has the most fertile soils?",
+    "options": [
+      "Central Plateau",
+      "Luangwa Valley",
+      "Zambezi Valley",
+      "Southern Province"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 247,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is 'umuntu' in Bemba philosophy?",
+    "options": [
+      "A warrior",
+      "A person/humanity",
+      "An elder",
+      "A leader"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 248,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "How many UNESCO Intangible Cultural Heritage items does Zambia have?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 249,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "How long do elephants typically live?",
+    "options": [
+      "60-70 years",
+      "30-40 years",
+      "80-90 years",
+      "20-30 years"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 250,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What was Zambia called before independence?",
+    "options": [
+      "Bechuanaland",
+      "Northern Rhodesia",
+      "Nyasaland",
+      "Southern Rhodesia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 251,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "How many female presidents has Zambia had?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 252,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which traditional dance is performed by the Bemba people?",
+    "options": [
+      "Makishi",
+      "Ngoma",
+      "Mbeni",
+      "Kalela"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 253,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Who was the Chipolopolo coach in 2012?",
+    "options": [
+      "Kalusha Bwalya",
+      "George Lwandamina",
+      "Herv\u00e9 Renard",
+      "Wedson Nyirenda"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 254,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What is the name of Zambia's anti-corruption body?",
+    "options": [
+      "Ethics Commission",
+      "Zambia Corruption Bureau",
+      "Integrity Agency",
+      "Anti-Corruption Commission (ACC)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 255,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When did Michael Sata become president?",
+    "options": [
+      "2012",
+      "2010",
+      "2013",
+      "2011"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 256,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the Tonga word for chief?",
+    "options": [
+      "Chieftainess",
+      "Mwami",
+      "Litunga",
+      "Undi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 257,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was the first Zambian ambassador to UN?",
+    "options": [
+      "Grey Zulu",
+      "Arthur Wina",
+      "Simon Kapwepwe",
+      "Vernon Mwaanga"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 258,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "How many districts does Zambia have?",
+    "options": [
+      "116",
+      "100",
+      "120",
+      "110"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 259,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian was UN Secretary-General candidate?",
+    "options": [
+      "Inonge Wina",
+      "Vernon Mwaanga",
+      "Nevers Mumba",
+      "Guy Scott"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 260,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is Zambia's national dish?",
+    "options": [
+      "Jollof rice",
+      "Bean stew",
+      "Ugali with meat",
+      "Nshima with relish"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 261,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which river system has the most fish species?",
+    "options": [
+      "Zambezi",
+      "Chambeshi",
+      "Luangwa",
+      "Kafue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 262,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which language is spoken in Luapula Province?",
+    "options": [
+      "Luvale",
+      "Kaonde",
+      "Lunda",
+      "Bemba"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 263,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What is the name of Zambia's Supreme Court?",
+    "options": [
+      "Constitutional Court",
+      "Supreme Court of Zambia",
+      "High Court",
+      "Appeals Court"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 264,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What does the black color on Zambia's flag represent?",
+    "options": [
+      "The people of Zambia",
+      "Darkness",
+      "Soil",
+      "Strength"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 265,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What color are Zambia's national football team jerseys?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 266,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What do hippos mostly eat?",
+    "options": [
+      "Grass",
+      "Insects",
+      "Fish",
+      "Meat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 267,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian won 2020 Windham-Campbell Prize?",
+    "options": [
+      "Ellen Banda-Aaku",
+      "Iyaloo Banda",
+      "Namwali Serpell",
+      "Mutale Nalumango"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 268,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is 'ubwali' in Bemba?",
+    "options": [
+      "Vegetables",
+      "Nshima",
+      "Beer",
+      "Meat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 269,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is the name of Zambia's stock exchange?",
+    "options": [
+      "Lusaka Securities Exchange",
+      "Zambia Stock Exchange",
+      "Copperbelt Exchange",
+      "African Exchange"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 270,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is an important industrial city in Zambia?",
+    "options": [
+      "Lusaka",
+      "Kabwe",
+      "Kitwe",
+      "Ndola"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 271,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When did David Livingstone first visit Zambia?",
+    "options": [
+      "1855",
+      "1860",
+      "1851",
+      "1840"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 272,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which mammal is known to have tusks?",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Giraffe",
+      "Zebra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 273,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which park is famous for its elephant population?",
+    "options": [
+      "Lower Zambezi",
+      "Kafue National Park",
+      "North Luangwa",
+      "South Luangwa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 274,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "Which act established the Electoral Commission?",
+    "options": [
+      "Electoral Commission Act",
+      "Parliamentary Act",
+      "Presidential Decree",
+      "Constitution Amendment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 275,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was the University of Zambia founded?",
+    "options": [
+      "1966",
+      "1968",
+      "1964",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 276,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambia is covered by forests?",
+    "options": [
+      "66%",
+      "45%",
+      "70%",
+      "50%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 277,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is known as the 'Father of Zambian Independence'?",
+    "options": [
+      "Kenneth Kaunda",
+      "Harry Mwaanga Nkumbula",
+      "Mainza Chona",
+      "Simon Mwansa Kapwepwe"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 278,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's fourth president?",
+    "options": [
+      "Michael Sata",
+      "Edgar Lungu",
+      "Rupiah Banda",
+      "Levy Mwanawasa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 279,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the supreme law of Zambia?",
+    "options": [
+      "Parliamentary Acts",
+      "Presidential decrees",
+      "The Constitution",
+      "Common law"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 280,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which province has the most cities in the Copperbelt?",
+    "options": [
+      "Lusaka Province",
+      "Northern Province",
+      "Central Province",
+      "Copperbelt Province"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 281,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which sector employs the most Zambians?",
+    "options": [
+      "Services",
+      "Manufacturing",
+      "Mining",
+      "Agriculture"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 282,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "How many waterfalls are there in Zambia?",
+    "options": [
+      "10",
+      "5",
+      "25",
+      "Over 17 major ones"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 283,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the Chewa script called?",
+    "options": [
+      "Vai",
+      "Ge'ez",
+      "Nyau",
+      "Mende"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 284,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is Zambia's largest national park?",
+    "options": [
+      "Kafue National Park",
+      "Lower Zambezi National Park",
+      "South Luangwa National Park",
+      "North Luangwa National Park"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 285,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is the Zambian national tree?",
+    "options": [
+      "Mango",
+      "Baobab",
+      "Mukwa",
+      "Msasa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 286,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What year did Zambia first participate in FIFA World Cup qualifiers?",
+    "options": [
+      "1978",
+      "1974",
+      "1966",
+      "1970"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 287,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the main rainy season in Zambia?",
+    "options": [
+      "June to September",
+      "May to October",
+      "November to April",
+      "January to March"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 288,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "How many constitutional amendments has Zambia had?",
+    "options": [
+      "One",
+      "Two",
+      "None",
+      "Multiple"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 289,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which animal product is commonly exported?",
+    "options": [
+      "Beef",
+      "Lamb",
+      "Fish",
+      "Poultry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 290,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Where was Zambia's AFCON final win played?",
+    "options": [
+      "South Africa",
+      "Zambia",
+      "Gabon",
+      "Ghana"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 291,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which country is Zambia's main trading partner?",
+    "options": [
+      "USA",
+      "South Africa",
+      "China",
+      "UK"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 292,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What percentage of rural population has electricity?",
+    "options": [
+      "80%",
+      "20%",
+      "5%",
+      "50%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 293,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which traditional ceremony commemorates the Lunda migration?",
+    "options": [
+      "N'cwala",
+      "Shimunenga",
+      "Mutomboko",
+      "Kuomboka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 294,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What tragedy struck the Zambian national team in 1993?",
+    "options": [
+      "Plane crash",
+      "Stadium collapse",
+      "Team illness",
+      "Bus accident"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 295,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What commodity has Zambia used to power growth?",
+    "options": [
+      "Diamonds",
+      "Gold",
+      "Copper",
+      "Oil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 296,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What agricultural product is Zambia self-sufficient in?",
+    "options": [
+      "Rice",
+      "Soybeans",
+      "Maize",
+      "Wheat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 297,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first Prime Minister?",
+    "options": [
+      "Simon Kapwepwe",
+      "Mainza Chona",
+      "Nalumino Mundia",
+      "Reuben Kamanga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 298,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is Zambia's approximate latitude?",
+    "options": [
+      "12\u00b0-22\u00b0 South",
+      "5\u00b0-15\u00b0 South",
+      "8\u00b0-18\u00b0 South",
+      "10\u00b0-20\u00b0 South"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 299,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is the official residence of Zambia's president?",
+    "options": [
+      "State House",
+      "Presidential Palace",
+      "Government House",
+      "Independence House"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 300,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian artist won Grammy Award?",
+    "options": [
+      "Mampi",
+      "None yet",
+      "Chef 187",
+      "Yo Maps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 301,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which lake forms part of Zambia's border with Tanzania?",
+    "options": [
+      "Lake Mweru",
+      "Lake Tanganyika",
+      "Lake Bangweulu",
+      "Lake Malawi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 302,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which endangered species was reintroduced to Zambia?",
+    "options": [
+      "White Rhino",
+      "Cheetah",
+      "Wild Dog",
+      "Black Rhino"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 303,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which national park is famous for walking safaris?",
+    "options": [
+      "Lower Zambezi National Park",
+      "Mosi-oa-Tunya National Park",
+      "Kafue National Park",
+      "South Luangwa National Park"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 304,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is the name of the large antelope found in Kafue?",
+    "options": [
+      "Eland",
+      "Gemsbok",
+      "Kudu",
+      "Sable Antelope"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 305,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Kenneth Kaunda's wife?",
+    "options": [
+      "Maureen Mwanawasa",
+      "Regina Chiluba",
+      "Mama Banda",
+      "Betty Kaunda"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 306,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian musician pioneered Kalindula music?",
+    "options": [
+      "Mashombe Blue Jeans",
+      "Serenje Kalindula",
+      "Amayenge",
+      "JK"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 307,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is Zambia's current Vice President?",
+    "options": [
+      "Given Lubinda",
+      "Inonge Wina",
+      "Mutale Nalumango",
+      "Guy Scott"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 308,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian painter is known internationally?",
+    "options": [
+      "Agnes Yombwe",
+      "Flinto Chandia",
+      "Henry Tayali",
+      "Stephen Kappata"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 309,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which stadium was named after a former president?",
+    "options": [
+      "Woodlands Stadium",
+      "Independence Stadium",
+      "Heroes Stadium",
+      "Levy Mwanawasa Stadium"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 310,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was the name of the Anglo-American mining company that operated in Zambia?",
+    "options": [
+      "Consolidated Goldfields",
+      "De Beers",
+      "Anglo Platinum",
+      "Roan Selection Trust"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 311,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What year did Michael Sata die in office?",
+    "options": [
+      "2013",
+      "2014",
+      "2015",
+      "2012"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 312,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the name of Zambia's largest man-made lake?",
+    "options": [
+      "Lake Mweru Wantipa",
+      "Lake Kariba",
+      "Kafue Dam",
+      "Lake Itezhi-Tezhi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 313,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first indigenous central bank governor?",
+    "options": [
+      "Caleb Fundanga",
+      "Michael Gondwe",
+      "Jacob Mwanza",
+      "Leonard Chivuno"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 314,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What year was the National Assembly established?",
+    "options": [
+      "1991",
+      "1972",
+      "1964",
+      "1988"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 315,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What year did Zambia host the Non-Aligned Movement summit?",
+    "options": [
+      "1968",
+      "1975",
+      "1970",
+      "1972"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 316,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the traditional name for Victoria Falls?",
+    "options": [
+      "Ngonye",
+      "Kalambo",
+      "Mosi-oa-Tunya",
+      "Kundalila"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 317,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What sport uses a racket?",
+    "options": [
+      "Tennis",
+      "Athletics",
+      "Football",
+      "Boxing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 318,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "How many official languages does Zambia recognize?",
+    "options": [
+      "10",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 319,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What was the name of the aircraft that crashed in Gabon 1993?",
+    "options": [
+      "Hercules",
+      "Cessna",
+      "DC-3",
+      "Buffalo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 320,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the Bemba greeting 'Muli shani' mean?",
+    "options": [
+      "Good morning",
+      "How are you?",
+      "Goodbye",
+      "Thank you"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 321,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is the main tourist attraction in Zambia?",
+    "options": [
+      "Copper mines",
+      "Victoria Falls",
+      "Lake Kariba",
+      "National Parks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 322,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How many elected members are in the National Assembly?",
+    "options": [
+      "150",
+      "167",
+      "140",
+      "156"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 323,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which country did Zambia defeat in the 2012 AFCON final?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Ivory Coast",
+      "Cameroon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 324,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In which sport did Samuel Matete excel?",
+    "options": [
+      "400m hurdles",
+      "Rugby",
+      "Football",
+      "Boxing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 325,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the traditional Bemba greeting?",
+    "options": [
+      "Muli shani",
+      "Mwashibukeni",
+      "Mwabonwa",
+      "Mwapoleni"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 326,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which is the longest river in Zambia?",
+    "options": [
+      "Kafue River",
+      "Zambezi River",
+      "Chambeshi River",
+      "Luangwa River"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 327,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the traditional way to eat nshima?",
+    "options": [
+      "With chopsticks",
+      "With hands",
+      "With fork",
+      "With spoon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 328,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "How wide is Victoria Falls at its widest point?",
+    "options": [
+      "1,500 meters",
+      "1,200 meters",
+      "2,000 meters",
+      "1,708 meters"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 329,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian authored 'The Tongue of the Dumb'?",
+    "options": [
+      "Binwell Sinyangwe",
+      "Stephen Mpashi",
+      "Dominic Mulaisho",
+      "Gideon Phiri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 330,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which metal is Zambia most famous for mining?",
+    "options": [
+      "Copper",
+      "Platinum",
+      "Silver",
+      "Gold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 331,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which bird is featured on Zambia's Presidential Standard?",
+    "options": [
+      "African Fish Eagle",
+      "Crowned Crane",
+      "Secretary Bird",
+      "Lilac-breasted Roller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 332,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which language family do most Zambian languages belong to?",
+    "options": [
+      "Nilotic",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Bantu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 333,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the length of the Zambezi River?",
+    "options": [
+      "3,000 km",
+      "2,574 km",
+      "2,800 km",
+      "2,200 km"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 334,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which city hosts the international airport serving Lusaka?",
+    "options": [
+      "Ndola",
+      "Livingstone",
+      "Lusaka",
+      "Mfuwe"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 335,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What percentage of Zambia's GDP comes from copper mining?",
+    "options": [
+      "18%",
+      "8%",
+      "25%",
+      "12%"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 336,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which currency is widely accepted besides Kwacha?",
+    "options": [
+      "Euro",
+      "US Dollar",
+      "British Pound",
+      "South African Rand"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 337,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "In what language is 'Chipolopolo'?",
+    "options": [
+      "Nyanja",
+      "Bemba",
+      "Tonga",
+      "Lozi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 338,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's main economic development plan called?",
+    "options": [
+      "Development Plan 2025",
+      "Vision 2050",
+      "Vision 2030",
+      "Economic Blueprint 2040"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 339,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "How many provinces does Zambia have?",
+    "options": [
+      "11",
+      "10",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 340,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the significance of the Kuomboka ceremony?",
+    "options": [
+      "Seasonal migration of the Litunga",
+      "Wedding ceremony",
+      "Coming of age ritual",
+      "Harvest celebration"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 341,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the second largest national park in Zambia?",
+    "options": [
+      "North Luangwa National Park",
+      "Lower Zambezi National Park",
+      "South Luangwa National Park",
+      "Sioma Ngwezi National Park"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 342,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambia is plateau land?",
+    "options": [
+      "90%",
+      "50%",
+      "Over 70%",
+      "30%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 343,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which agricultural product does Zambia export to Zimbabwe?",
+    "options": [
+      "Coffee",
+      "Cotton",
+      "Maize",
+      "Tobacco"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 344,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What's the name for the goal keeper position?",
+    "options": [
+      "Goalkeeper",
+      "Defender",
+      "Midfielder",
+      "Striker"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 345,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the name of the plain in Western Province?",
+    "options": [
+      "Liuwa Plain",
+      "Busanga Plain",
+      "Lukanga Plain",
+      "Barotse Floodplain"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 346,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the most widely spoken local language in Zambia?",
+    "options": [
+      "Lozi",
+      "Nyanja",
+      "Bemba",
+      "Tonga"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 347,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is a major Zambian agricultural product?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Cassava",
+      "Maize"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 348,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the name of the traditional ruler of the Lozi people?",
+    "options": [
+      "Litunga",
+      "Undi",
+      "Chitimukulu",
+      "Mpezeni"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 349,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the Makishi masquerade tradition associated with?",
+    "options": [
+      "Luvale initiation ceremonies",
+      "Ngoni warfare",
+      "Bemba harvest festivals",
+      "Lozi coronations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 350,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which endangered species can be found in North Luangwa National Park?",
+    "options": [
+      "Cheetah",
+      "Mountain gorilla",
+      "Black rhino",
+      "Wild dogs"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 351,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "When was Zambia's current constitution adopted?",
+    "options": [
+      "2020",
+      "2016",
+      "2012",
+      "2010"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 352,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which town is known as the 'Tourism Capital of Zambia'?",
+    "options": [
+      "Livingstone",
+      "Ndola",
+      "Lusaka",
+      "Siavonga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 353,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What monument stands at Freedom Square in Lusaka?",
+    "options": [
+      "Unity Statue",
+      "Independence Monument",
+      "Freedom Statue",
+      "Liberation Memorial"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 354,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's credit rating category?",
+    "options": [
+      "AAA (highest)",
+      "Investment grade",
+      "B-range (speculative)",
+      "C (substantial risk)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 355,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's ambassador to the UN in the 1960s?",
+    "options": [
+      "Peter Matoka",
+      "Arthur Wina",
+      "Siteke Mwale",
+      "Vernon Mwaanga"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 356,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's first Speaker of Parliament?",
+    "options": [
+      "Wesley Nyirenda",
+      "Robinson Nabulyato",
+      "Anderson Mazoka",
+      "Amon Zulu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 357,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Zambia's football association is known as?",
+    "options": [
+      "CAF",
+      "FAZ",
+      "FIFA",
+      "SAFA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 358,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which continent organizes AFCON?",
+    "options": [
+      "Americas",
+      "Asia",
+      "Europe",
+      "Africa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 359,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many points is a football match win worth?",
+    "options": [
+      "5 points",
+      "2 points",
+      "1 point",
+      "3 points"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 360,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What year did Hichilema become president?",
+    "options": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 361,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is 'lupwa' in Bemba culture?",
+    "options": [
+      "Traditional healer",
+      "Village",
+      "Extended family",
+      "Chief's palace"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 362,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which Zambian town is closest to Tanzania?",
+    "options": [
+      "Ndola",
+      "Kasama",
+      "Kitwe",
+      "Mbala"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 363,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the main religion in Zambia?",
+    "options": [
+      "Islam",
+      "Traditional beliefs",
+      "Christianity",
+      "Hinduism"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 364,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the total land area of Zambia?",
+    "options": [
+      "700,000 km\u00b2",
+      "752,618 km\u00b2",
+      "850,000 km\u00b2",
+      "800,000 km\u00b2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 365,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What is the Thornicroft's giraffe unique to?",
+    "options": [
+      "Lower Zambezi",
+      "Kafue National Park",
+      "North Luangwa",
+      "South Luangwa National Park"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 366,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Zambian football club is based in Ndola?",
+    "options": [
+      "Red Arrows",
+      "Green Eagles",
+      "Power Dynamos",
+      "Zesco United"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 367,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "How many opposition parties contested 2021 elections?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "Over 15"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 368,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the traditional Zambian way of showing respect to elders?",
+    "options": [
+      "Eye contact",
+      "Standing straight",
+      "Kneeling or bowing",
+      "Handshake"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 369,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What traditional African religion is still practiced?",
+    "options": [
+      "Zoroastrianism",
+      "Ancestor worship",
+      "Islam",
+      "Buddhism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 370,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is the percentage of formal employment?",
+    "options": [
+      "Less than 20%",
+      "80%",
+      "50%",
+      "30%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 371,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What year did Zambia become a middle-income country?",
+    "options": [
+      "2015",
+      "2011",
+      "2000",
+      "1995"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 372,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which big cat is known as the 'Ghost of the Grasslands'?",
+    "options": [
+      "Leopard",
+      "Lion",
+      "Caracal",
+      "Cheetah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 373,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was Zambia's longest-serving president?",
+    "options": [
+      "Levy Mwanawasa",
+      "Kenneth Kaunda",
+      "Edgar Lungu",
+      "Frederick Chiluba"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 374,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which tribe is known for the Vimbuza healing dance?",
+    "options": [
+      "Lozi",
+      "Tumbuka",
+      "Bemba",
+      "Ngoni"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 375,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which year did Zambia finish AFCON runners-up?",
+    "options": [
+      "1974 and 1994",
+      "1988 and 2000",
+      "1982 and 1998",
+      "1980 and 1996"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 376,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "When was the first multi-party election held in Zambia?",
+    "options": [
+      "1991",
+      "1996",
+      "1992",
+      "1990"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 377,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which precious stone is mined in Zambia?",
+    "options": [
+      "Sapphire",
+      "Diamond",
+      "Ruby",
+      "Emerald"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 378,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the name of the airport near South Luangwa?",
+    "options": [
+      "Mfuwe Airport",
+      "Kasama Airport",
+      "Chipata Airport",
+      "Mansa Airport"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 379,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "What percentage of votes is required to win presidency in first round?",
+    "options": [
+      "50% plus one",
+      "Simple majority",
+      "Two-thirds",
+      "40%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 380,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What small fish is popular in Zambian cuisine?",
+    "options": [
+      "Tilapia",
+      "Kapenta",
+      "Tuna",
+      "Salmon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 381,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which club is nicknamed 'Ba Kopala'?",
+    "options": [
+      "Power Dynamos",
+      "Zanaco",
+      "Nkana FC",
+      "Zesco"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 382,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which national park is closest to Lusaka?",
+    "options": [
+      "Kafue National Park",
+      "Lower Zambezi National Park",
+      "Lochinvar National Park",
+      "Blue Lagoon National Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 383,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's first black bishop?",
+    "options": [
+      "Telesphore Mpundu",
+      "Medardo Mazombwe",
+      "Emmanuel Milingo",
+      "George Lungu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 384,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which is the smallest province in Zambia by area?",
+    "options": [
+      "Copperbelt Province",
+      "Eastern Province",
+      "Central Province",
+      "Lusaka Province"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 385,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which river is a tributary of the Zambezi?",
+    "options": [
+      "Lunga River",
+      "Luapula River",
+      "Chambeshi River",
+      "Kafue River"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 386,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the name of the traditional Zambian drum?",
+    "options": [
+      "Kpanlogo",
+      "Djembe",
+      "Talking drum",
+      "Ngoma"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 387,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was copper first discovered in the Copperbelt?",
+    "options": [
+      "1930s",
+      "1920s",
+      "1910s",
+      "1900s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 388,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the driest area in Zambia?",
+    "options": [
+      "Zambezi Valley",
+      "Western Province",
+      "Southern Province",
+      "Luangwa Valley"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 389,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the name of the valley with most of Zambia's population?",
+    "options": [
+      "Luangwa Valley",
+      "Kafue Basin",
+      "Zambezi Valley",
+      "Central Plateau"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 390,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is the traditional Zambian beer called?",
+    "options": [
+      "Umqombothi",
+      "Chibuku",
+      "Chang'aa",
+      "Palm wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 391,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is the Zambia-born antelope species?",
+    "options": [
+      "Black Lechwe",
+      "Kafue Lechwe",
+      "All endemic species",
+      "Thornicroft's Giraffe"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 392,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What is the nickname of Zambia's national football team?",
+    "options": [
+      "The Lions",
+      "The Warriors",
+      "Chipolopolo",
+      "The Eagles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 393,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What's the primary fuel source for homes?",
+    "options": [
+      "Electricity",
+      "Charcoal",
+      "Oil",
+      "Gas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 394,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What is a key industry in Kitwe?",
+    "options": [
+      "Fishing",
+      "Tourism",
+      "Banking",
+      "Copper mining"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 395,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was the Mulungushi Declaration of 1969 about?",
+    "options": [
+      "Foreign policy",
+      "Economic reforms and nationalization",
+      "Education policy",
+      "Land reforms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 396,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who was Zambia's longest-serving vice president?",
+    "options": [
+      "Grey Zulu",
+      "Simon Kapwepwe",
+      "Mainza Chona",
+      "Inonge Wina"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 397,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was the last British Governor of Northern Rhodesia?",
+    "options": [
+      "Sir Arthur Benson",
+      "Sir Roy Welensky",
+      "Sir Evelyn Hone",
+      "Sir John Kennedy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 398,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who composed Zambia's national anthem?",
+    "options": [
+      "Kenneth Kaunda",
+      "Multiple Zambians collectively",
+      "Unknown",
+      "Enoch Sontonga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 399,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which famous waterfall is located in Zambia?",
+    "options": [
+      "Victoria Falls",
+      "Iguazu Falls",
+      "Niagara Falls",
+      "Angel Falls"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 400,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which Zambian boxer won an Olympic medal?",
+    "options": [
+      "Lottie Mwale",
+      "Chisanda Mutti",
+      "Patrick Chinyemba",
+      "Keith Mwila"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 401,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "When was the first radio station established in Zambia?",
+    "options": [
+      "1964",
+      "1941",
+      "1950",
+      "1935"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 402,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How are provincial governors chosen?",
+    "options": [
+      "Elected by people",
+      "Chosen by Parliament",
+      "Appointed by President",
+      "Elected by councillors"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 403,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is Zambia's most decorated athlete?",
+    "options": [
+      "Keith Mwila",
+      "Kalusha Bwalya",
+      "Davison Kaumba",
+      "Samuel Matete"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 404,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which lake is shared between Zambia and Tanzania?",
+    "options": [
+      "Lake Victoria",
+      "Lake Kariba",
+      "Lake Tanganyika",
+      "Lake Malawi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 405,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the capacity of Heroes Stadium?",
+    "options": [
+      "50,000",
+      "40,000",
+      "70,000",
+      "60,000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 406,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the TAZARA railway completed?",
+    "options": [
+      "1975",
+      "1970",
+      "1980",
+      "1976"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 407,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who was the first Zambian woman to hold a cabinet position?",
+    "options": [
+      "Princess Nakatindi Wina",
+      "Christine Kaseba",
+      "Inonge Wina",
+      "Edith Nawakwi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 408,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "What year was the Zambian anthem first sung?",
+    "options": [
+      "1964",
+      "1991",
+      "1964",
+      "1973"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 409,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Who was the first Zambian to earn a PhD?",
+    "options": [
+      "Dr. Kenneth Kaunda",
+      "Dr. Lameck Goma",
+      "Dr. Mainza Chona",
+      "Dr. Simon Kapwepwe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 410,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What is the name of Zambia's first constitution?",
+    "options": [
+      "1964 Constitution",
+      "1973 Constitution",
+      "1991 Constitution",
+      "Mulungushi Constitution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 411,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which mineral is found alongside copper?",
+    "options": [
+      "Platinum",
+      "Cobalt",
+      "Gold",
+      "Silver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 412,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was known as the 'Humble Servant'?",
+    "options": [
+      "Kenneth Kaunda",
+      "Frederick Chiluba",
+      "Levy Mwanawasa",
+      "Michael Sata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 413,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What year was Rupiah Banda born?",
+    "options": [
+      "1942",
+      "1937",
+      "1940",
+      "1935"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 414,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who founded ZNBC?",
+    "options": [
+      "Kenneth Kaunda",
+      "Government of Zambia",
+      "British colonial administration",
+      "Private investors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 415,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "How many countries border Zambia?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 416,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which region experiences the highest rainfall?",
+    "options": [
+      "Western Province",
+      "Eastern Province",
+      "Northern Province",
+      "Southern Province"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 417,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Which president died in 2008?",
+    "options": [
+      "Michael Sata",
+      "Frederick Chiluba",
+      "Rupiah Banda",
+      "Levy Mwanawasa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 418,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the altitude of Lusaka?",
+    "options": [
+      "800 meters",
+      "1,279 meters",
+      "1,500 meters",
+      "1,000 meters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 419,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's first female Vice President?",
+    "options": [
+      "Inonge Wina",
+      "Christine Kaseba",
+      "Edith Nawakwi",
+      "Maureen Mwanawasa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 420,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which province is Livingstone located in?",
+    "options": [
+      "Copperbelt Province",
+      "Southern Province",
+      "Western Province",
+      "Lusaka Province"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 421,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Where is the National Assembly building located?",
+    "options": [
+      "Lusaka",
+      "Livingstone",
+      "Ndola",
+      "Kabwe"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 422,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "Which park was established to protect the Kafue Lechwe?",
+    "options": [
+      "Blue Lagoon National Park",
+      "Lochinvar National Park",
+      "Kasanka National Park",
+      "Kafue National Park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 423,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What is Zambia's highest court?",
+    "options": [
+      "Supreme Court",
+      "Court of Appeal",
+      "High Court",
+      "Constitutional Court"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 424,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "Which party ruled Zambia from 1964 to 1991?",
+    "options": [
+      "PF",
+      "MMD",
+      "UPND",
+      "UNIP"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 425,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "When was the Zambian flag first raised?",
+    "options": [
+      "January 1, 1964",
+      "December 31, 1963",
+      "October 24, 1964",
+      "October 24, 1963"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 426,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What year was Kafue National Park established?",
+    "options": [
+      "1964",
+      "1950",
+      "1945",
+      "1972"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 427,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Who sang 'Shupi Ma Shupi'?",
+    "options": [
+      "Slapdee",
+      "Yo Maps",
+      "Macky 2",
+      "Chef 187"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 428,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the average elevation of Zambia's plateau?",
+    "options": [
+      "1,200 meters",
+      "1,000 meters",
+      "800 meters",
+      "1,500 meters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 429,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What was the capital of Northern Rhodesia before Lusaka?",
+    "options": [
+      "Broken Hill",
+      "Ndola",
+      "Livingstone",
+      "Fort Jameson"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 430,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which town is at the geographical center of Zambia?",
+    "options": [
+      "Kapiri Mposhi",
+      "Serenje",
+      "Kabwe",
+      "Lusaka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 431,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What do giraffes primarily eat?",
+    "options": [
+      "Tree leaves",
+      "Insects",
+      "Fruits",
+      "Grass"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 432,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the name of the hot springs near Lusaka?",
+    "options": [
+      "Munali Hot Springs",
+      "Chaminuka Hot Springs",
+      "Samfya Hot Springs",
+      "Kapishya Hot Springs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 433,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "How many years is a presidential term in Zambia?",
+    "options": [
+      "7 years",
+      "6 years",
+      "4 years",
+      "5 years"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 434,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "When was the Zambian National Service established?",
+    "options": [
+      "1971",
+      "1975",
+      "1968",
+      "1965"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 435,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Who appoints the vice president in Zambia?",
+    "options": [
+      "The President",
+      "Parliament",
+      "The voters",
+      "Electoral Commission"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 436,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "In what year did the British South Africa Company's rule end?",
+    "options": [
+      "1920",
+      "1930",
+      "1924",
+      "1928"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 437,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What political party does Hakainde Hichilema lead?",
+    "options": [
+      "UPND",
+      "UNIP",
+      "PF",
+      "MMD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 438,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "Which year did Zambia establish its stock exchange?",
+    "options": [
+      "1993",
+      "2000",
+      "1985",
+      "1991"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 439,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is Zambia's national language?",
+    "options": [
+      "Bemba",
+      "Tonga",
+      "English",
+      "Nyanja"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 440,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which bank is Zambia's central bank?",
+    "options": [
+      "Bank of Zambia",
+      "Zambia National Commercial Bank",
+      "Barclays Bank",
+      "Standard Bank"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 441,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What does the word 'Zambia' mean?",
+    "options": [
+      "Copper land",
+      "Land of lakes",
+      "Land of freedom",
+      "Named after Zambezi River"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 442,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is Africa's largest antelope found in Zambia?",
+    "options": [
+      "Sable",
+      "Kudu",
+      "Eland",
+      "Wildebeest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 443,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What symbol appears on Zambia's flag?",
+    "options": [
+      "Fish",
+      "Lion",
+      "Star",
+      "Eagle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 444,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "Which city is the judicial capital of Zambia?",
+    "options": [
+      "Lusaka",
+      "Kitwe",
+      "Ndola",
+      "Livingstone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 445,
+    "category": "Famous People",
+    "difficulty": "Medium",
+    "question": "Which Zambian became first African FIFA referee?",
+    "options": [
+      "Patrick Sakala",
+      "Janny Sikazwe",
+      "Emmanuel Zulu",
+      "Davies Phiri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 446,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "What is ZPPA?",
+    "options": [
+      "Zambia Police Protection Agency",
+      "Zambia Public Procurement Authority",
+      "Zambia Public Prosecution Agency",
+      "Zambia Private Property Agency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 447,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "What year did Zambia's debt cancellation occur?",
+    "options": [
+      "2005",
+      "1995",
+      "2010",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 448,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the name of the Ngoni paramount chief's residence?",
+    "options": [
+      "Mpezeni's Palace",
+      "Chipata Palace",
+      "Kamoto Palace",
+      "Feni Palace"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 449,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "What was the Choma Declaration of 1972?",
+    "options": [
+      "Land reforms",
+      "Education reforms",
+      "Declaration of one-party state",
+      "Foreign policy statement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 450,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Which explorer is most associated with Zambia?",
+    "options": [
+      "Henry Stanley",
+      "Richard Burton",
+      "David Livingstone",
+      "Cecil Rhodes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 451,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Who was Zambia's most decorated athlete?",
+    "options": [
+      "Davison Kaumba",
+      "Samuel Matete",
+      "Keith Mwila",
+      "Kalusha Bwalya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 452,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "How many species of snakes are in Zambia?",
+    "options": [
+      "Over 30",
+      "Over 80",
+      "Over 50",
+      "Over 100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 453,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "How fast can an elephant run?",
+    "options": [
+      "Up to 60 km/h",
+      "Up to 25 km/h",
+      "Up to 80 km/h",
+      "Up to 40 km/h"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 454,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which tribe's paramount chief is called Mpezeni?",
+    "options": [
+      "Chewa",
+      "Bemba",
+      "Ngoni",
+      "Lozi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 455,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which town is the center of emerald mining?",
+    "options": [
+      "Solwezi",
+      "Ndola",
+      "Kitwe",
+      "Chingola"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 456,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What color card signals a serious foul in football?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 457,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which town is located at the southern tip of Zambia?",
+    "options": [
+      "Livingstone",
+      "Kazungula",
+      "Siavonga",
+      "Sesheke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 458,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Zambian club is based in Lusaka?",
+    "options": [
+      "Zesco",
+      "Zanaco FC",
+      "Nkana FC",
+      "Power Dynamos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 459,
+    "category": "Famous People",
+    "difficulty": "Hard",
+    "question": "Which Zambian sculptor created the Freedom Statue?",
+    "options": [
+      "Agnes Yombwe",
+      "Henry Tayali",
+      "Stephen Kappata",
+      "Flinto Chandia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 460,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "What percentage of Zambia is protected wildlife areas?",
+    "options": [
+      "20%",
+      "40%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 461,
+    "category": "Politics & Government",
+    "difficulty": "Medium",
+    "question": "How many provinces did Zambia have at independence?",
+    "options": [
+      "10",
+      "9",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 462,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "How many times has Zambia hosted AFCON?",
+    "options": [
+      "Once",
+      "Never",
+      "Twice",
+      "Three times"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 463,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "Which national border has the largest population on the Zambian side?",
+    "options": [
+      "Tanzania border",
+      "Angola border",
+      "DRC border",
+      "Zimbabwe border"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 464,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "How many Zambian presidents have died in office?",
+    "options": [
+      "Two (Mwanawasa and Sata)",
+      "Three",
+      "None",
+      "One"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 465,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is the largest land animal in Zambia?",
+    "options": [
+      "African Elephant",
+      "Giraffe",
+      "Hippopotamus",
+      "Buffalo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 466,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What percentage of Africa's wildlife is in Zambia?",
+    "options": [
+      "About 5%",
+      "About 15%",
+      "About 10%",
+      "About 2%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 467,
+    "category": "Politics & Government",
+    "difficulty": "Easy",
+    "question": "What is Zambia declared as in its constitution?",
+    "options": [
+      "Christian nation",
+      "Secular state",
+      "Multi-faith nation",
+      "Non-religious state"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 468,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which province contains Livingstone?",
+    "options": [
+      "Lusaka",
+      "Western",
+      "Southern",
+      "Central"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 469,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "What is a group of elephants called?",
+    "options": [
+      "A herd",
+      "A pack",
+      "A flock",
+      "A pride"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 470,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the traditional marriage gift called?",
+    "options": [
+      "Bride price",
+      "Dowry",
+      "Lobola",
+      "Chilanga"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 471,
+    "category": "History",
+    "difficulty": "Hard",
+    "question": "Who was the first Zambian to be knighted?",
+    "options": [
+      "Sir Stewart Gore-Browne",
+      "Sir Geoffrey Beresford",
+      "Sir John Moffat",
+      "Sir Harry Franklin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 472,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What is Zambia's national motto?",
+    "options": [
+      "One Zambia, One Nation",
+      "Strength in Unity",
+      "Unity and Freedom",
+      "Peace and Progress"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 473,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambia's land is covered by water bodies?",
+    "options": [
+      "11%",
+      "5%",
+      "8%",
+      "15%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 474,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which president was a lawyer by profession?",
+    "options": [
+      "All of them",
+      "Levy Mwanawasa",
+      "Edgar Lungu",
+      "Kenneth Kaunda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 475,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What was the nickname of Kenneth Kaunda?",
+    "options": [
+      "KK",
+      "Boss",
+      "Father",
+      "Chief"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 476,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What traditional food is made from maize meal?",
+    "options": [
+      "Ugali",
+      "Nshima",
+      "Sadza",
+      "Pap"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 477,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the longest border of Zambia?",
+    "options": [
+      "Mozambique border",
+      "Angola border",
+      "DRC border",
+      "Tanzania border"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 478,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "What is the Ngoni word for warrior?",
+    "options": [
+      "Impi",
+      "Induna",
+      "Induku",
+      "Mwami"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 479,
+    "category": "Culture & Traditions",
+    "difficulty": "Medium",
+    "question": "Which tribe is known for cattle herding?",
+    "options": [
+      "Ngoni",
+      "Tonga",
+      "Bemba",
+      "Lozi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 480,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "In what year did Zambia gain independence?",
+    "options": [
+      "1964",
+      "1960",
+      "1970",
+      "1954"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 481,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "When did Zambia join the United Nations?",
+    "options": [
+      "1966",
+      "1964",
+      "1963",
+      "1965"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 482,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "When was the Zambian Kwacha rebased?",
+    "options": [
+      "2010",
+      "2013",
+      "2015",
+      "2008"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 483,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "What is a major export to neighboring countries?",
+    "options": [
+      "Maize",
+      "Rice",
+      "Sorghum",
+      "Wheat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 484,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is the scientific name for the African elephant?",
+    "options": [
+      "Loxodonta africana",
+      "Mammuthus primigenius",
+      "Loxodonta cyclotis",
+      "Elephas maximus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 485,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which rare antelope is found in the Bangweulu Swamps?",
+    "options": [
+      "Black Lechwe",
+      "Red Lechwe",
+      "Puku",
+      "Sitatunga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 486,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Who was Zambia's third president?",
+    "options": [
+      "Michael Sata",
+      "Edgar Lungu",
+      "Rupiah Banda",
+      "Levy Mwanawasa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 487,
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "How many times has Zambia participated in the Olympics?",
+    "options": [
+      "Over 10 times",
+      "5 times",
+      "15 times",
+      "8 times"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 488,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which country does NOT border Zambia?",
+    "options": [
+      "Tanzania",
+      "Mozambique",
+      "Kenya",
+      "Angola"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 489,
+    "category": "Economy & Resources",
+    "difficulty": "Medium",
+    "question": "Which sector contributes most to Zambia's GDP?",
+    "options": [
+      "Agriculture",
+      "Manufacturing",
+      "Mining",
+      "Services"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 490,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What is the Olympic motto?",
+    "options": [
+      "Faster, Higher, Stronger",
+      "Victory",
+      "Citius, Altius, Fortius",
+      "Excellence"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 491,
+    "category": "Economy & Resources",
+    "difficulty": "Easy",
+    "question": "Which industry supports tourism in Zambia?",
+    "options": [
+      "Oil production",
+      "Wildlife safaris",
+      "Manufacturing",
+      "Technology"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 492,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What percentage of exports go to China?",
+    "options": [
+      "10%",
+      "50%",
+      "About 35%",
+      "70%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 493,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the main river flowing through Zambia?",
+    "options": [
+      "Zambezi River",
+      "Congo River",
+      "Nile River",
+      "Limpopo River"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 494,
+    "category": "Economy & Resources",
+    "difficulty": "Hard",
+    "question": "What is Zambia's GDP per capita approximately?",
+    "options": [
+      "$1,500",
+      "$2,500",
+      "$1,000",
+      "$3,000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's economy & resources."
+  },
+  {
+    "id": 495,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "Which province has the most ethnic diversity?",
+    "options": [
+      "Copperbelt Province",
+      "Eastern Province",
+      "Lusaka Province",
+      "Northern Province"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 496,
+    "category": "Wildlife & Nature",
+    "difficulty": "Medium",
+    "question": "Which park was formerly a royal hunting ground?",
+    "options": [
+      "Kafue National Park",
+      "South Luangwa",
+      "Lower Zambezi",
+      "Liuwa Plain National Park"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 497,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In which year did Zambia first qualify for AFCON?",
+    "options": [
+      "1978",
+      "1974",
+      "1982",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's sports."
+  },
+  {
+    "id": 498,
+    "category": "Politics & Government",
+    "difficulty": "Hard",
+    "question": "When was the Electoral Commission of Zambia established?",
+    "options": [
+      "1964",
+      "1996",
+      "2000",
+      "1991"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's politics & government."
+  },
+  {
+    "id": 499,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What relish is commonly eaten with nshima?",
+    "options": [
+      "Bread",
+      "Pasta",
+      "Rice",
+      "Kapenta fish"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 500,
+    "category": "Wildlife & Nature",
+    "difficulty": "Hard",
+    "question": "What is Mosi-oa-Tunya National Park famous for?",
+    "options": [
+      "Wild dogs",
+      "Lions",
+      "Cheetahs",
+      "White rhinos"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 501,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What percentage of Zambians are Christian?",
+    "options": [
+      "70%",
+      "85%",
+      "95%",
+      "80%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 502,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "What does the orange color on Zambia's flag represent?",
+    "options": [
+      "Copper",
+      "Sunshine",
+      "Freedom",
+      "Unity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's history."
+  },
+  {
+    "id": 503,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which reptile is most dangerous in Zambia?",
+    "options": [
+      "Monitor lizard",
+      "Python",
+      "Chameleon",
+      "Black mamba"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 504,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Who is Zambia's first lady (2024)?",
+    "options": [
+      "Maureen Mwanawasa",
+      "Mutinta Hichilema",
+      "Christine Kaseba",
+      "Esther Lungu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fact about Zambia's famous people."
+  },
+  {
+    "id": 505,
+    "category": "Culture & Traditions",
+    "difficulty": "Hard",
+    "question": "What is the Lozi kingdom called historically?",
+    "options": [
+      "Barotseland",
+      "Bulozi",
+      "Luyana Kingdom",
+      "Lozi Kingdom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 506,
+    "category": "Wildlife & Nature",
+    "difficulty": "Easy",
+    "question": "Which animal is known for its distinctive black and white stripes?",
+    "options": [
+      "Zebra",
+      "Gazelle",
+      "Antelope",
+      "Wildebeest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact about Zambia's wildlife & nature."
+  },
+  {
+    "id": 507,
+    "category": "Culture & Traditions",
+    "difficulty": "Easy",
+    "question": "What traditional garment do Zambian women wear?",
+    "options": [
+      "Dashiki",
+      "Boubou",
+      "Chitenge",
+      "Kanga"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's culture & traditions."
+  },
+  {
+    "id": 508,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the major soil type in Zambia?",
+    "options": [
+      "Sandy soils",
+      "Volcanic soils",
+      "Limestone soils",
+      "Clay-rich soils"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fact about Zambia's geography."
+  },
+  {
+    "id": 509,
+    "category": "Famous People",
+    "difficulty": "Easy",
+    "question": "Which Zambian musician is known as the 'King of Zambian Music'?",
+    "options": [
+      "PK Chishala",
+      "John Lushi",
+      "Paul Ngozi",
+      "Alick Nkhata"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fact about Zambia's famous people."
+  }
+]

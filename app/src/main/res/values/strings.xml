@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zambia Quiz</string>
+
+    <!-- Main Screen -->
+    <string name="welcome_title">Zambia Quiz</string>
+    <string name="welcome_subtitle">Test Your Knowledge About Zambia</string>
+    <string name="start_quiz">Choose Category</string>
+    <string name="quick_play">Quick Play</string>
+    <string name="about">About</string>
+
+    <!-- Category Screen -->
+    <string name="choose_category">Choose Category</string>
+    <string name="choose_difficulty">Choose Difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_all">All</string>
+
+    <!-- Quiz Screen -->
+    <string name="skip_question">Skip Question</string>
+    <string name="timer_format">%ds</string>
+    <string name="progress_format">%d/%d</string>
+
+    <!-- Result Screen -->
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="score">Score</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="play_again">Play Again</string>
+    <string name="home">Home</string>
+    <string name="share_results">Share Results</string>
+    <string name="detailed_statistics">Detailed Statistics</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="correct_answers">Correct Answers</string>
+    <string name="wrong_answers">Wrong Answers</string>
+    <string name="skipped_questions">Skipped Questions</string>
+    <string name="time_taken">Time Taken</string>
+
+    <!-- Performance Messages -->
+    <string name="outstanding">Outstanding!</string>
+    <string name="excellent">Excellent!</string>
+    <string name="good_job">Good Job!</string>
+    <string name="not_bad">Not Bad!</string>
+    <string name="keep_practicing">Keep Practicing!</string>
+
+    <!-- Dialog Messages -->
+    <string name="quit_quiz_title">Quit Quiz?</string>
+    <string name="quit_quiz_message">Are you sure you want to quit? Your progress will be lost.</string>
+    <string name="quit">Quit</string>
+    <string name="continue_quiz">Continue</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- About Dialog -->
+    <string name="about_title">About Zambia Quiz</string>
+    <string name="about_message">Test your knowledge about Zambia!\n\n📚 Over 650 questions\n🎯 Multiple categories\n⚡ Different difficulty levels\n🏆 Track your progress\n\nLearn about Zambian history, geography, culture, wildlife, and more!</string>
+    <string name="got_it">Got it!</string>
+</resources>

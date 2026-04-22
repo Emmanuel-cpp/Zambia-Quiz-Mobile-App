@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.ZambiaQuiz" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textViewStyle">@style/SmoothTextView</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+
+    <!-- No Action Bar Theme -->
+    <style name="Theme.ZambiaQuiz.NoActionBar" parent="Theme.ZambiaQuiz">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="Theme.ZambiaQuiz.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+
+    <!-- Smooth Text Rendering -->
+    <style name="SmoothTextView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+</resources>
