@@ -18,6 +18,9 @@ import android.os.Handler
 import android.os.Looper
 import androidx.viewpager2.widget.ViewPager2
 import androidx.appcompat.app.AlertDialog
+import androidx.lifecycle.lifecycleScope
+import kotlinx.coroutines.launch
+import android.widget.Toast
 
 
 class CategoryActivity : AppCompatActivity() {
@@ -31,10 +34,30 @@ class CategoryActivity : AppCompatActivity() {
         binding = ActivityCategoryBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        quizManager = QuizManager(this)
-        setupUI()
-        setupBackgroundSlider()
-        setupClickListeners()
+        quizManager = QuizManager.getInstance(this)
+
+        // ⭐ Load questions from server
+        lifecycleScope.launch {
+            showLoadingDialog()
+            val success = quizManager.loadQuestions()
+            dismissLoadingDialog()
+
+            if (success) {
+                setupUI()
+                setupBackgroundSlider()
+                setupClickListeners()
+
+                // Show where questions came from
+                val source = if (quizManager.isFromServer()) "server" else "local storage"
+                Toast.makeText(
+                    this@CategoryActivity,
+                    "✅ Loaded ${quizManager.getTotalQuestions()} questions from $source",
+                    Toast.LENGTH_LONG
+                ).show()
+            } else {
+                showErrorDialog()
+            }
+        }
     }
 
     private fun setupUI() {
@@ -187,5 +210,33 @@ class CategoryActivity : AppCompatActivity() {
         }
 
         override fun getItemCount() = categories.size
+    }
+    private var loadingDialog: AlertDialog? = null
+
+    private fun showLoadingDialog() {
+        val builder = AlertDialog.Builder(this)
+        builder.setMessage("Loading questions from server...")
+        builder.setCancelable(false)
+        loadingDialog = builder.create()
+        loadingDialog?.show()
+    }
+
+    private fun dismissLoadingDialog() {
+        loadingDialog?.dismiss()
+        loadingDialog = null
+    }
+
+    private fun showErrorDialog() {
+        AlertDialog.Builder(this)
+            .setTitle("Connection Error")
+            .setMessage("Failed to load questions. Please check your internet connection and try again.")
+            .setPositiveButton("Retry") { _, _ ->
+                recreate()
+            }
+            .setNegativeButton("Exit") { _, _ ->
+                finish()
+            }
+            .setCancelable(false)
+            .show()
     }
 }

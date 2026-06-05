@@ -11,14 +11,17 @@ import android.os.VibrationEffect
 import android.os.Vibrator
 import android.util.Log
 import android.view.View
+import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
+import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.widget.ViewPager2
 import com.example.zambiaquiz.R
 import com.example.zambiaquiz.data.QuizManager
 import com.example.zambiaquiz.databinding.ActivityQuizBinding
 import com.example.zambiaquiz.models.Question
+import kotlinx.coroutines.launch
 
 class QuizActivity : AppCompatActivity() {
 
@@ -39,6 +42,8 @@ class QuizActivity : AppCompatActivity() {
     private var correctSound: MediaPlayer? = null
     private var wrongSound: MediaPlayer? = null
 
+    private var loadingDialog: AlertDialog? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityQuizBinding.inflate(layoutInflater)
@@ -46,15 +51,43 @@ class QuizActivity : AppCompatActivity() {
 
         @Suppress("DEPRECATION")
         vibrator = getSystemService(VIBRATOR_SERVICE) as Vibrator
-        quizManager = QuizManager(this)
+        quizManager = QuizManager.getInstance(this)
 
         initializeSounds()
-
-        loadQuestions()
         setupUI()
         setupBackgroundSlider()
-        startTime = System.currentTimeMillis()
-        displayQuestion()
+
+        // ⭐ LOAD QUESTIONS ASYNCHRONOUSLY FROM SERVER
+// Questions are already loaded in SplashActivity
+        loadQuestions()
+
+        if (questions.isNotEmpty()) {
+            startTime = System.currentTimeMillis()
+            displayQuestion()
+        }
+    }
+
+    private fun showLoadingDialog() {
+        loadingDialog = AlertDialog.Builder(this)
+            .setMessage("Loading questions...")
+            .setCancelable(false)
+            .create()
+        loadingDialog?.show()
+    }
+
+    private fun dismissLoadingDialog() {
+        loadingDialog?.dismiss()
+        loadingDialog = null
+    }
+
+    private fun showErrorDialog() {
+        AlertDialog.Builder(this)
+            .setTitle("Error")
+            .setMessage("Failed to load questions. Please check your internet connection.")
+            .setPositiveButton("Retry") { _, _ -> recreate() }
+            .setNegativeButton("Exit") { _, _ -> finish() }
+            .setCancelable(false)
+            .show()
     }
 
     private fun initializeSounds() {
@@ -66,23 +99,30 @@ class QuizActivity : AppCompatActivity() {
         }
     }
 
-private fun loadQuestions() {
-    val category = intent.getStringExtra("CATEGORY") ?: "Random"
-    val difficulty = intent.getStringExtra("DIFFICULTY") ?: "All"
-    val count = intent.getIntExtra("QUESTION_COUNT", 10)
+    private fun loadQuestions() {
+        val category = intent.getStringExtra("CATEGORY") ?: "Random"
+        val difficulty = intent.getStringExtra("DIFFICULTY") ?: "All"
+        val count = intent.getIntExtra("QUESTION_COUNT", 10)
 
-    Log.d("QuizActivity", " Loading quiz: Category=$category, Difficulty=$difficulty, Count=$count")
+        Log.d("QuizActivity", "Loading quiz: Category=$category, Difficulty=$difficulty, Count=$count")
+        Log.d("QuizActivity", "Total questions available: ${quizManager.getTotalQuestions()}")
 
-    questions = if (category == "Random") {
-        quizManager.getRandomQuestions(count)
-    } else {
-        quizManager.getQuestionsByCategory(category, count, difficulty)
+        questions = if (category == "Random") {
+            quizManager.getRandomQuestions(count)
+        } else {
+            quizManager.getQuestionsByCategory(category, count, difficulty)
+        }
+
+        Log.d("QuizActivity", "Questions selected for quiz: ${questions.size}")
+
+        if (questions.isEmpty()) {
+            Toast.makeText(this, "No questions found for $category - $difficulty", Toast.LENGTH_LONG).show()
+            showNoQuestionsDialog()
+        } else {
+            Toast.makeText(this, "Starting quiz with ${questions.size} questions!", Toast.LENGTH_SHORT).show()
+        }
     }
 
-    if (questions.isEmpty()) {
-        showNoQuestionsDialog()
-    }
-}
     private fun setupUI() {
         supportActionBar?.hide()
 
@@ -126,6 +166,8 @@ private fun loadQuestions() {
         }
 
         val question = questions[currentQuestionIndex]
+
+        Log.d("QuizActivity", "Displaying Q${currentQuestionIndex + 1}: ${question.question}")
 
         binding.tvProgress.text = "${currentQuestionIndex + 1}/${questions.size}"
         binding.progressBar.max = questions.size
@@ -185,7 +227,10 @@ private fun loadQuestions() {
         timer?.cancel()
 
         val question = questions[currentQuestionIndex]
-        val isCorrect = selectedIndex == question.correctAnswer
+
+        // ⭐ USE getCorrectIndex() instead of correctAnswer
+        val correctIndex = question.getCorrectIndex()
+        val isCorrect = selectedIndex == correctIndex
 
         val options = listOf(binding.btnOption1, binding.btnOption2, binding.btnOption3, binding.btnOption4)
 
@@ -213,8 +258,9 @@ private fun loadQuestions() {
             options[selectedIndex].setBackgroundColor(ContextCompat.getColor(this, R.color.wrong))
             options[selectedIndex].setTextColor(ContextCompat.getColor(this, android.R.color.white))
 
-            options[question.correctAnswer].setBackgroundColor(ContextCompat.getColor(this, R.color.correct))
-            options[question.correctAnswer].setTextColor(ContextCompat.getColor(this, android.R.color.white))
+            // ⭐ USE correctIndex instead of question.correctAnswer
+            options[correctIndex].setBackgroundColor(ContextCompat.getColor(this, R.color.correct))
+            options[correctIndex].setTextColor(ContextCompat.getColor(this, android.R.color.white))
 
             if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
                 vibrator.vibrate(VibrationEffect.createOneShot(200, VibrationEffect.DEFAULT_AMPLITUDE))
@@ -230,6 +276,7 @@ private fun loadQuestions() {
             displayQuestion()
         }, 1500)
     }
+
     private fun playSound(mediaPlayer: MediaPlayer?) {
         try {
             mediaPlayer?.let {
@@ -250,6 +297,7 @@ private fun loadQuestions() {
         currentQuestionIndex++
         displayQuestion()
     }
+
     private fun finishQuiz() {
         timer?.cancel()
 
@@ -299,6 +347,7 @@ private fun loadQuestions() {
         onBackPressed()
         return true
     }
+
     override fun onDestroy() {
         super.onDestroy()
         timer?.cancel()

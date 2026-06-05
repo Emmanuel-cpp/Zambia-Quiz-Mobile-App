@@ -50,10 +50,15 @@ dependencies {
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.gson)
     implementation(libs.androidx.cardview)
-
     implementation(libs.androidx.viewpager2)
     implementation(libs.glide)
-
+    implementation (libs.gson.v291)
+    implementation (libs.retrofit)
+    implementation (libs.converter.gson)
+    implementation(libs.okhttp)
+    implementation(libs.logging.interceptor)
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.androidx.lifecycle.runtime.ktx.v270)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit.v121)
     androidTestImplementation(libs.androidx.espresso.core.v361)

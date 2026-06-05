@@ -25,7 +25,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        quizManager = QuizManager(this)
+        // ⭐ Get the SAME instance loaded in SplashActivity
+        quizManager = QuizManager.getInstance(this)
+
+        // Questions are already loaded - no flicker!
         setupUI()
         setupImageSlider()
         setupClickListeners()
@@ -49,37 +52,24 @@ class MainActivity : AppCompatActivity() {
         )
 
         binding.imageSlider.adapter = ImageSliderAdapter(slides)
-
-        // Make transitions slower and smoother
         binding.imageSlider.offscreenPageLimit = 2
 
-        // smooth page transformer with slow fade and slide
         binding.imageSlider.setPageTransformer { page, position ->
             page.apply {
                 when {
-                    position < -1 -> { // Pages way off to the left
-                        alpha = 0f
-                    }
-                    position <= 1 -> { // Pages transitioning
-                        // Fade effect
+                    position < -1 -> { alpha = 0f }
+                    position <= 1 -> {
                         alpha = 1 - kotlin.math.abs(position) * 0.5f
-
-                        // Slide effect
                         translationX = -position * width * 0.3f
-
-                        // zoom effect
                         val scaleFactor = 1 - kotlin.math.abs(position) * 0.05f
                         scaleX = scaleFactor
                         scaleY = scaleFactor
                     }
-                    else -> { // Pages way off to the right
-                        alpha = 0f
-                    }
+                    else -> { alpha = 0f }
                 }
             }
         }
 
-        // Update dots when page changes
         binding.imageSlider.registerOnPageChangeCallback(object : ViewPager2.OnPageChangeCallback() {
             override fun onPageSelected(position: Int) {
                 super.onPageSelected(position)
@@ -87,13 +77,11 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-        // Auto-scroll every 6 seconds (slower for smooth viewing)
         val handler = Handler(Looper.getMainLooper())
         val runnable = object : Runnable {
             override fun run() {
                 val currentItem = binding.imageSlider.currentItem
                 val nextItem = (currentItem + 1) % slides.size
-                // Smooth transition duration
                 binding.imageSlider.setCurrentItem(nextItem, true)
                 handler.postDelayed(this, 6000)
             }
@@ -134,34 +122,26 @@ class MainActivity : AppCompatActivity() {
 
     private fun showAboutDialog() {
         val dialogView = layoutInflater.inflate(R.layout.dialog_about, null)
-
         val dialog = AlertDialog.Builder(this)
             .setView(dialogView)
             .create()
-
         dialog.window?.setBackgroundDrawableResource(android.R.color.transparent)
-
         dialogView.findViewById<View>(R.id.btnClose).setOnClickListener {
             dialog.dismiss()
         }
-
         dialog.show()
     }
 
-    private fun playBackgroundMusic() {
-        try {
-        } catch (e: Exception) {
-            e.printStackTrace()
-        }
-    }
     override fun onPause() {
         super.onPause()
         mediaPlayer?.pause()
     }
+
     override fun onResume() {
         super.onResume()
         mediaPlayer?.start()
     }
+
     override fun onDestroy() {
         super.onDestroy()
         mediaPlayer?.release()

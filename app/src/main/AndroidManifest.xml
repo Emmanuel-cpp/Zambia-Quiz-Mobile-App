@@ -5,6 +5,9 @@
 
     <uses-permission android:name="android.permission.VIBRATE" />
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,7 +15,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ZambiaQuiz"
-        tools:targetApi="31">
+        tools:targetApi="31"
+        tools:ignore="ExtraText">
 
         <activity
             android:name=".ui.SplashActivity"
@@ -47,7 +51,6 @@
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.ZambiaQuiz.NoActionBar"/>
-
     </application>
 
 </manifest>
